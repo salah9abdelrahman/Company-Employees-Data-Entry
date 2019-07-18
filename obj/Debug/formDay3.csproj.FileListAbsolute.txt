@@ -1,0 +1,55 @@
+E:\IT\c#\studyProjects\formDay3\bin\Debug\formDay3.exe.config
+E:\IT\c#\studyProjects\formDay3\bin\Debug\formDay3.exe
+E:\IT\c#\studyProjects\formDay3\bin\Debug\formDay3.pdb
+E:\IT\c#\studyProjects\formDay3\obj\Debug\formDay3.csprojAssemblyReference.cache
+E:\IT\c#\studyProjects\formDay3\obj\Debug\formDay3.AddForm.resources
+E:\IT\c#\studyProjects\formDay3\obj\Debug\formDay3.Form1.resources
+E:\IT\c#\studyProjects\formDay3\obj\Debug\formDay3.Properties.Resources.resources
+E:\IT\c#\studyProjects\formDay3\obj\Debug\formDay3.csproj.GenerateResource.cache
+E:\IT\c#\studyProjects\formDay3\obj\Debug\formDay3.csproj.CoreCompileInputs.cache
+E:\IT\c#\studyProjects\formDay3\obj\Debug\formDay3.exe
+E:\IT\c#\studyProjects\formDay3\obj\Debug\formDay3.pdb
+C:\Users\fg\Desktop\formDay3 (2)\formDay3\bin\Debug\formDay3.exe.config
+C:\Users\fg\Desktop\formDay3 (2)\formDay3\bin\Debug\formDay3.exe
+C:\Users\fg\Desktop\formDay3 (2)\formDay3\bin\Debug\formDay3.pdb
+C:\Users\fg\Desktop\formDay3 (2)\formDay3\obj\Debug\formDay3.csprojAssemblyReference.cache
+C:\Users\fg\Desktop\formDay3 (2)\formDay3\obj\Debug\formDay3.AddForm.resources
+C:\Users\fg\Desktop\formDay3 (2)\formDay3\obj\Debug\formDay3.Form1.resources
+C:\Users\fg\Desktop\formDay3 (2)\formDay3\obj\Debug\formDay3.Properties.Resources.resources
+C:\Users\fg\Desktop\formDay3 (2)\formDay3\obj\Debug\formDay3.csproj.GenerateResource.cache
+C:\Users\fg\Desktop\formDay3 (2)\formDay3\obj\Debug\formDay3.csproj.CoreCompileInputs.cache
+C:\Users\fg\Desktop\formDay3 (2)\formDay3\obj\Debug\formDay3.exe
+C:\Users\fg\Desktop\formDay3 (2)\formDay3\obj\Debug\formDay3.pdb
+E:\formDay3\bin\Debug\formDay3.exe.config
+E:\formDay3\bin\Debug\formDay3.exe
+E:\formDay3\bin\Debug\formDay3.pdb
+E:\formDay3\obj\Debug\formDay3.csprojAssemblyReference.cache
+E:\formDay3\obj\Debug\formDay3.AddForm.resources
+E:\formDay3\obj\Debug\formDay3.Form1.resources
+E:\formDay3\obj\Debug\formDay3.Properties.Resources.resources
+E:\formDay3\obj\Debug\formDay3.csproj.GenerateResource.cache
+E:\formDay3\obj\Debug\formDay3.csproj.CoreCompileInputs.cache
+E:\formDay3\obj\Debug\formDay3.exe
+E:\formDay3\obj\Debug\formDay3.pdb
+D:\pro pro\formDay3\obj\Debug\formDay3.csprojAssemblyReference.cache
+D:\pro pro\formDay3\obj\Debug\formDay3.AddForm.resources
+D:\pro pro\formDay3\obj\Debug\formDay3.Form1.resources
+D:\pro pro\formDay3\obj\Debug\formDay3.Properties.Resources.resources
+D:\pro pro\formDay3\obj\Debug\formDay3.csproj.GenerateResource.cache
+D:\pro pro\formDay3\obj\Debug\formDay3.csproj.CoreCompileInputs.cache
+D:\pro pro\formDay3\obj\Debug\formDay3.exe
+D:\pro pro\formDay3\obj\Debug\formDay3.pdb
+D:\pro pro\formDay3\bin\Debug\formDay3.exe.config
+D:\pro pro\formDay3\bin\Debug\formDay3.exe
+D:\pro pro\formDay3\bin\Debug\formDay3.pdb
+E:\IT\Projects\own projects\ITI\صلاح#داليا#احمد عاطف\project\bin\Debug\formDay3.exe.config
+E:\IT\Projects\own projects\ITI\صلاح#داليا#احمد عاطف\project\bin\Debug\formDay3.exe
+E:\IT\Projects\own projects\ITI\صلاح#داليا#احمد عاطف\project\bin\Debug\formDay3.pdb
+E:\IT\Projects\own projects\ITI\صلاح#داليا#احمد عاطف\project\obj\Debug\formDay3.csprojAssemblyReference.cache
+E:\IT\Projects\own projects\ITI\صلاح#داليا#احمد عاطف\project\obj\Debug\formDay3.AddForm.resources
+E:\IT\Projects\own projects\ITI\صلاح#داليا#احمد عاطف\project\obj\Debug\formDay3.Form1.resources
+E:\IT\Projects\own projects\ITI\صلاح#داليا#احمد عاطف\project\obj\Debug\formDay3.Properties.Resources.resources
+E:\IT\Projects\own projects\ITI\صلاح#داليا#احمد عاطف\project\obj\Debug\formDay3.csproj.GenerateResource.cache
+E:\IT\Projects\own projects\ITI\صلاح#داليا#احمد عاطف\project\obj\Debug\formDay3.csproj.CoreCompileInputs.cache
+E:\IT\Projects\own projects\ITI\صلاح#داليا#احمد عاطف\project\obj\Debug\formDay3.exe
+E:\IT\Projects\own projects\ITI\صلاح#داليا#احمد عاطف\project\obj\Debug\formDay3.pdb
